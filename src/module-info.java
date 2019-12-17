@@ -1,0 +1,2 @@
+module amiral_batti {
+}
